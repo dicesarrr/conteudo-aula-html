@@ -1,0 +1,20 @@
+body {
+  background-color: cadetblue;
+}
+
+h1 {
+  border: 6px solid #0000ff; 
+}
+
+p {
+  border: 6px solid tomato;
+}
+
+.exemplo-diferente {
+  border: 6px solid greenyellow;
+}
+
+
+img {
+  width: 100rem;
+}
